@@ -1,0 +1,194 @@
+// !$*UTF8*$!
+{
+	00C235CB10FE32E300223CDC /* quickTimeSample2.cpp */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {953, 3016}}";
+			sepNavSelRange = "{2999, 0}";
+			sepNavVisRange = "{2479, 826}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Release;
+		activeExecutable = 65D9CEB7131AB2AE009A807E /* quickTimeSample */;
+		activeTarget = 8D1107260486CEB800E47090 /* quickTimeSample */;
+		codeSenseManager = 65D9CEC4131AB2CC009A807E /* Code sense */;
+		executables = (
+			65D9CEB7131AB2AE009A807E /* quickTimeSample */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					775,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 320518247;
+			PBXWorkspaceStateSaveDate = 320518247;
+		};
+		perUserProjectItems = {
+			6561B938131ABD7C0008D663 /* PBXTextBookmark */ = 6561B938131ABD7C0008D663 /* PBXTextBookmark */;
+			6561B95F131AC2C80008D663 /* PBXTextBookmark */ = 6561B95F131AC2C80008D663 /* PBXTextBookmark */;
+			6561B961131AC2C80008D663 /* PBXTextBookmark */ = 6561B961131AC2C80008D663 /* PBXTextBookmark */;
+			6561C0CC131EEE040008D663 /* PBXTextBookmark */ = 6561C0CC131EEE040008D663 /* PBXTextBookmark */;
+			65D9CEFD131AB6D7009A807E /* PBXTextBookmark */ = 65D9CEFD131AB6D7009A807E /* PBXTextBookmark */;
+			65D9CEFE131AB6D7009A807E /* PBXTextBookmark */ = 65D9CEFE131AB6D7009A807E /* PBXTextBookmark */;
+		};
+		sourceControlManager = 65D9CEC3131AB2CC009A807E /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	6561B938131ABD7C0008D663 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 6561B939131ABD7C0008D663 /* QuickTime.cpp */;
+		name = "QuickTime.cpp: 255";
+		rLen = 0;
+		rLoc = 8180;
+		rType = 0;
+		vrLen = 1291;
+		vrLoc = 7544;
+	};
+	6561B939131ABD7C0008D663 /* QuickTime.cpp */ = {
+		isa = PBXFileReference;
+		name = QuickTime.cpp;
+		path = /Users/daniel/Development/Cinder/src/cinder/qtime/QuickTime.cpp;
+		sourceTree = "<absolute>";
+	};
+	6561B95F131AC2C80008D663 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 6561B960131AC2C80008D663 /* MovieWriter.h */;
+		name = "MovieWriter.h: 149";
+		rLen = 0;
+		rLoc = 8324;
+		rType = 0;
+		vrLen = 1646;
+		vrLoc = 7528;
+	};
+	6561B960131AC2C80008D663 /* MovieWriter.h */ = {
+		isa = PBXFileReference;
+		name = MovieWriter.h;
+		path = /Users/daniel/Development/Cinder/include/cinder/qtime/MovieWriter.h;
+		sourceTree = "<absolute>";
+	};
+	6561B961131AC2C80008D663 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 00C235CB10FE32E300223CDC /* quickTimeSample2.cpp */;
+		name = "quickTimeSample2.cpp: 145";
+		rLen = 10;
+		rLoc = 2694;
+		rType = 0;
+		vrLen = 1040;
+		vrLoc = 2364;
+	};
+	6561C0CC131EEE040008D663 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 00C235CB10FE32E300223CDC /* quickTimeSample2.cpp */;
+		name = "quickTimeSample2.cpp: 152";
+		rLen = 0;
+		rLoc = 2999;
+		rType = 0;
+		vrLen = 826;
+		vrLoc = 2479;
+	};
+	65D9CEB7131AB2AE009A807E /* quickTimeSample */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = quickTimeSample;
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+		variableFormatDictionary = {
+		};
+	};
+	65D9CEC3131AB2CC009A807E /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	65D9CEC4131AB2CC009A807E /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	65D9CEC8131AB405009A807E /* QuickTime.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = QuickTime.h;
+		path = /Users/daniel/Development/Cinder/include/cinder/qtime/QuickTime.h;
+		sourceTree = "<absolute>";
+	};
+	65D9CECA131AB405009A807E /* Surface.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = Surface.h;
+		path = /Users/daniel/Development/Cinder/include/cinder/Surface.h;
+		sourceTree = "<absolute>";
+	};
+	65D9CEFD131AB6D7009A807E /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 65D9CEC8131AB405009A807E /* QuickTime.h */;
+		name = "QuickTime.h: 211";
+		rLen = 9;
+		rLoc = 9210;
+		rType = 0;
+		vrLen = 1355;
+		vrLoc = 8250;
+	};
+	65D9CEFE131AB6D7009A807E /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 65D9CECA131AB405009A807E /* Surface.h */;
+		name = "Surface.h: 482";
+		rLen = 9;
+		rLoc = 28615;
+		rType = 0;
+		vrLen = 1192;
+		vrLoc = 27669;
+	};
+	8D1107260486CEB800E47090 /* quickTimeSample */ = {
+		activeExec = 0;
+		executables = (
+			65D9CEB7131AB2AE009A807E /* quickTimeSample */,
+		);
+	};
+}
