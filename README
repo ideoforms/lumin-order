@@ -1,6 +1,27 @@
-LuminOrder: An OS X app to reorder a video in order of its frames' brightness levels.
+LUMIN ORDER
+--------------------------------------------------------------------------------
 
-Requires Cinder:
+An OS X app to reorder a video in order of its frames' brightness levels.
+
+INSTALLATION
+--------------------------------------------------------------------------------
+
+This application requires Cinder:
 
     http://libcinder.org/
+
+Drop the LuminOrder directory within Cinder's apps directory, and compile and
+run the Xcode project file in xcode/
+
+Tested with Xcode 5.0, Cinder 0.85.
+
+USAGE
+--------------------------------------------------------------------------------
+
+Drag a video file onto the window and processing will proceed automatically.
+The ordered output will be created as "output.mov" in the same directory as 
+the input file.
+
+An associated file, offsets.txt, contains the frame offsets and brightness
+levels of the ordered video.
 
