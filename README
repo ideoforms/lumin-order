@@ -1,0 +1,6 @@
+LuminOrder: An OS X app to reorder a video in order of its frames' brightness levels.
+
+Requires Cinder:
+
+    http://libcinder.org/
+
