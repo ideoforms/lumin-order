@@ -1,5 +1,4 @@
-LUMIN ORDER
---------------------------------------------------------------------------------
+# lumin-order
 
 Reorder a video file by frame luminosity.
 
@@ -14,8 +13,7 @@ September 2017
 
 Created by [<http://www.erase.net/>](Daniel John Jones).
 
-INSTALLATION
---------------------------------------------------------------------------------
+# Installation
 
 To install and run the script:
 
@@ -24,7 +22,6 @@ pip install -r requirements.txt
 python reorder.py
 ```
 
-HISTORY
---------------------------------------------------------------------------------
+# History
 
 This script replaces an earlier libcinder incarnation of LuminOrder.
