@@ -8,10 +8,10 @@ to reduce fragmentation, so that in-order sequences from the original
 material are represented intact. Alter the rounding factor with the
 -r argument to achieve different levels of fragmentation.
 
-Commissioned for the opening of [http://www.blacktowerprojects.com/](Black Tower Projects),
+Commissioned for the opening of [Black Tower Projects](http://www.blacktowerprojects.com/)
 September 2017
 
-Created by [<http://www.erase.net/>](Daniel John Jones).
+Created by [Daniel Jones](http://www.erase.net/).
 
 # Installation
 
